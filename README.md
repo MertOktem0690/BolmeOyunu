@@ -1,2 +1,0 @@
-# BolmeOyunu
- Bölme Oyunu
